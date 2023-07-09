@@ -10,7 +10,7 @@ TravelAir is a sleek and user-friendly frontend travel booking website. Develope
 
 ## Getting Started
 
-To explore and use TravelAir, simply visit the [website](https://harshify.github.io/travelAir/) .
+To explore and use TravelAir, simply visit the [website](https://harshify.github.io/travelAir/) . <br>
 No additional setup or installation is required.
 
 ## Technologies Used
